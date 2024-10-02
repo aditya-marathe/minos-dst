@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "minos-dst"
+version = "0.1.0"
+description = "Package for opening MINOS/MINOS+ datasets (stored as DST files) using the Uproot Python module."
+authors = ["Aditya Marathe"]
+license = "GNU General Public License v3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
