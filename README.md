@@ -4,8 +4,9 @@ MINOS stores raw data in DSTs some of which is then culled by the initial cuts a
 
 ## Current Objectives
 
-1. Open MicroDST files in Python using Uproot.
+1. ~~Open MicroDST files in Python using Uproot.~~
 2. Create initial plots using the opened data.
+3. Understand the event variables / column names.
 
 ## Future Objectives
 
@@ -15,3 +16,4 @@ MINOS stores raw data in DSTs some of which is then culled by the initial cuts a
 ## Links and References
 
 1. MINOS (Fermilab) - https://www.fnal.gov/pub/science/experiments/intensity/minos.html
+2. Awkward Arrays - https://github.com/scikit-hep/awkward
